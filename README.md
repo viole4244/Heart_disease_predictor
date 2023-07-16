@@ -1,4 +1,3 @@
-
 Heart Disease Prediction App using Machine Learning
 This repository contains the code and resources for a Heart Disease Prediction App developed using machine learning techniques. The purpose of this application is to predict the likelihood of an individual having heart disease based on their health parameters and medical history.
 
